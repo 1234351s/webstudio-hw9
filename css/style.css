@@ -3,6 +3,12 @@
   --black-color: rgb(47, 48, 58);
   --grey-color: rgb(245, 244, 250);
   --blue-color: rgb(33, 150, 243);
-  --gray1-color:rgba(255, 255, 255, 0.6);
-  --grey_black-color:rgb(117, 117, 117);
+  --gray1-color: rgba(255, 255, 255, 0.6);
+  --grey_black-color: rgb(117, 117, 117);
+}
+body {
+  font-family: "Roboto display" serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: calc(19 / 14);
 }
